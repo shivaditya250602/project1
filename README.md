@@ -1,2 +1,2 @@
 # project1
-# chart generator app
+# speech to text recognition app
